@@ -1,1 +1,1 @@
-# api-node-graphql
+# OBS: Essa API ainda está em desenvolvimento
