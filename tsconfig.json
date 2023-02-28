@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "esnext"
+    ],
+    "target": "es2016",
+    "module": "commonjs",
+    "esModuleInterop": true,
+
+    /* Type Checking */
+    "strict": false,
+  },
+  "compileOnSave": false,
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
